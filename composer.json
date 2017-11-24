@@ -1,5 +1,6 @@
 {
   "name": "leepowell/silverstripe-image-shortcode",
+  "version": "1.0.1",
   "type": "silverstripe-module",
   "license": "MIT",
   "authors": [
